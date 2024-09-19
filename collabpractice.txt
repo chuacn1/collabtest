@@ -7,3 +7,5 @@ wanna add more comments
 
 open a new folder, git bash, git clone website, cd name of folder
 
+wondering how many more we need to do tbh..
+
