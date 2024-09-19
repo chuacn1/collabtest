@@ -10,3 +10,5 @@ open a new folder, git bash, git clone website, cd name of folder
 wondering how many more we need to do tbh..
 
 im going to try and push it now 
+
+hi aareena, :P
