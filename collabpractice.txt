@@ -5,9 +5,7 @@ i have to add git add and then git commit -m every changes instead
 wanna add more comments
 
 
-open a new folder, git bash, git clone website, cd name of folder
-
-wondering how many more we need to do tbh..
+open a new folder, git bash, git clone website, cd name of foldergit 
 
 im going to try and push it now 
 
