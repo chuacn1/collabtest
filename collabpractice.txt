@@ -1,6 +1,2 @@
 hello
 
-e
-fde
-f
-edf
